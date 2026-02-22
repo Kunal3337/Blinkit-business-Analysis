@@ -1,7 +1,6 @@
-**Blinkit-Sales-Analysis-Dashboard-BI
-**
+**Blinkit-Sales-Analysis-Dashboard-BI**
 
-Requirement Gathering / Business Requirements
+<ins>Requirement Gathering / Business Requirements</ins>
 
 To conduct a comprehensive analysis of Blinkit’s sales performance , customer satisfaction , and inventory distribution to identify key insights and opportunities for optimization using various KPIs and visualizations in Power BI
 
