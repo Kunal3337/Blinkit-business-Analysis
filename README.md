@@ -6,10 +6,10 @@ To conduct a comprehensive analysis of Blinkit’s sales performance , customer 
 
 ### KPI’s Requirements
 
-**Total Sales:** The overall revenue generated from all items sold
-**Average Sales:** The average revenue per sale
-**Number of items:** The total count of different items sold
-**Average Rating:** The average customer rating for items sold
+**Total Sales:** The overall revenue generated from all items sold <br>
+**Average Sales:** The average revenue per sale <br>
+**Number of items:** The total count of different items sold <br>
+**Average Rating:** The average customer rating for items sold <br>
 
  ![KPI](https://github.com/user-attachments/assets/3a5b0ae7-4217-4aff-aa5a-f6b7bc64af04)
 
